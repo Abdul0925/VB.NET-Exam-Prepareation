@@ -31,6 +31,7 @@ Module Program
     Sub Main(args As String())
         Dim rect As IShape = New Rectangle
         rect.Display
-
+        Dim abstractexample As New Derived
+        abstractexample.Display()
     End Sub
 End Module
