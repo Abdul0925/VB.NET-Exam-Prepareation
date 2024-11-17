@@ -83,10 +83,13 @@ End Class
 
 Module Program
     Sub Main(args As String())
+
+        'Create a function to create obj of class to call destructor
         Get_Area()
 
         GC.Collect()
-        'Console.WriteLine("Press any key to exit")
+
+        Console.WriteLine("Press any key to exit")
 
         'Polymorphism
         'Dim myAnimal As Animal
