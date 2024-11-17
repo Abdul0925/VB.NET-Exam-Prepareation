@@ -13,6 +13,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ep-multiple-inheritance", "
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ep-abstract-class", "ep-abstract-class\ep-abstract-class.vbproj", "{E44D8057-532B-4CCE-96DB-315E9CA4521A}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ep-implicit-interface", "ep-implicit-interface\ep-implicit-interface.vbproj", "{95A09886-873D-46D5-9B8C-B681789A130A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{E44D8057-532B-4CCE-96DB-315E9CA4521A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E44D8057-532B-4CCE-96DB-315E9CA4521A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E44D8057-532B-4CCE-96DB-315E9CA4521A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A09886-873D-46D5-9B8C-B681789A130A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A09886-873D-46D5-9B8C-B681789A130A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A09886-873D-46D5-9B8C-B681789A130A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A09886-873D-46D5-9B8C-B681789A130A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
