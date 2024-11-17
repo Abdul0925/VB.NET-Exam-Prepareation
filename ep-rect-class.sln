@@ -13,7 +13,7 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ep-multiple-inheritance", "
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ep-abstract-class", "ep-abstract-class\ep-abstract-class.vbproj", "{E44D8057-532B-4CCE-96DB-315E9CA4521A}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ep-implicit-interface", "ep-implicit-interface\ep-implicit-interface.vbproj", "{95A09886-873D-46D5-9B8C-B681789A130A}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ep-types-of-interface", "ep-implicit-interface\ep-types-of-interface.vbproj", "{95A09886-873D-46D5-9B8C-B681789A130A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
