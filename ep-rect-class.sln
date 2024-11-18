@@ -25,6 +25,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ep-Helper-Owned-Forms", "ep
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ep-ScrollablePictureBoxApp", "ep-ScrollablePictureBoxApp\ep-ScrollablePictureBoxApp.vbproj", "{9462ED54-EC1A-4814-B0B3-58649219E149}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ep-notepad-sdi", "ep-notepad-sdi\ep-notepad-sdi.vbproj", "{FCDC0833-205D-41A6-9C2F-3F76330AF98A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{9462ED54-EC1A-4814-B0B3-58649219E149}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9462ED54-EC1A-4814-B0B3-58649219E149}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9462ED54-EC1A-4814-B0B3-58649219E149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCDC0833-205D-41A6-9C2F-3F76330AF98A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDC0833-205D-41A6-9C2F-3F76330AF98A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDC0833-205D-41A6-9C2F-3F76330AF98A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDC0833-205D-41A6-9C2F-3F76330AF98A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
