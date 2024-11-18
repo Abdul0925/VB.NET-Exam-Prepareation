@@ -23,6 +23,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ep-icloneable", "ep-iclonea
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ep-Helper-Owned-Forms", "ep-Helper-Owned-Forms\ep-Helper-Owned-Forms.vbproj", "{C8E222ED-94D6-43DA-8DE4-6F15A5F675BD}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ep-ScrollablePictureBoxApp", "ep-ScrollablePictureBoxApp\ep-ScrollablePictureBoxApp.vbproj", "{9462ED54-EC1A-4814-B0B3-58649219E149}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{C8E222ED-94D6-43DA-8DE4-6F15A5F675BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8E222ED-94D6-43DA-8DE4-6F15A5F675BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8E222ED-94D6-43DA-8DE4-6F15A5F675BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9462ED54-EC1A-4814-B0B3-58649219E149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9462ED54-EC1A-4814-B0B3-58649219E149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9462ED54-EC1A-4814-B0B3-58649219E149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9462ED54-EC1A-4814-B0B3-58649219E149}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
