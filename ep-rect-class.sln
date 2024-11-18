@@ -19,6 +19,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ep-explicit-interface", "ep
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ep-abstract-class-easy", "ep-abstract-class-easy\ep-abstract-class-easy.vbproj", "{1D066276-DD43-4ECD-AD84-C0AEF8D2371C}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ep-icloneable", "ep-icloneable\ep-icloneable.vbproj", "{2AA8C234-FED3-4D18-AB68-FFB7ABF262F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{1D066276-DD43-4ECD-AD84-C0AEF8D2371C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D066276-DD43-4ECD-AD84-C0AEF8D2371C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D066276-DD43-4ECD-AD84-C0AEF8D2371C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AA8C234-FED3-4D18-AB68-FFB7ABF262F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA8C234-FED3-4D18-AB68-FFB7ABF262F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA8C234-FED3-4D18-AB68-FFB7ABF262F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA8C234-FED3-4D18-AB68-FFB7ABF262F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
